@@ -24,7 +24,7 @@ If you use the Docker image of WebGoat this application will automatically be av
 URL: http://localhost:9090/WebWolf
 
 ## 2. Standalone
-
+##TEST
 ```Shell
 cd WebGoat
 git checkout develop
